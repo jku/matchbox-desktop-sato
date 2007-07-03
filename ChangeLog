@@ -1,0 +1,6 @@
+2007-07-03  Ross Burton  <ross@openedhand.com>
+
+	* *.directory:
+	Move desktop folders here from matchbox-common.
+
+
