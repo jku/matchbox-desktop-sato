@@ -4,5 +4,4 @@ dist_folder_DATA = \
 	All.directory \
 	Applications.directory \
 	Games.directory \
-	Settings.directory \
-	Utilities.directory
+	Settings.directory
